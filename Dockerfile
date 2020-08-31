@@ -1,4 +1,6 @@
 FROM land007/l4t-cuda:latest
+#FROM land007/l4t-golang-cuda:latest
+#docker build -t land007/l4t-golang-tensorflow:1.15.0 .
 
 MAINTAINER Jia Yiqiu <yiqiujia@hotmail.com>
 
